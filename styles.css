@@ -1,0 +1,46 @@
+h1{
+  text-align:center;
+  color:#EC407A;
+  border: solid 5px;
+  Background-color:#EEEEEE;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+div{
+  width:auto;
+  border: solid #EC407A 15px;
+  padding: 50px;
+  margin: 0px;
+  background-color:#EEEEEE ;
+
+}
+h2{
+  text-align:center;
+}
+.image-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+    justify-content: center;
+}
+@media screen and (max-width:800px)}
+
+section{
+  display:flex;
+  justify-content: space-around;
+}
+article{
+  
+    width:25%;
+  height:100px;
+  text-align:center;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+img{
+  border:solid 5px;
+  height: 100px;
+  width: 90%;
+}
